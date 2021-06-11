@@ -1,0 +1,12 @@
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\bin\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.deps.json
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\bin\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.runtimeconfig.json
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\bin\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.runtimeconfig.dev.json
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\bin\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.dll
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\bin\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.pdb
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.csprojAssemblyReference.cache
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.AssemblyInfoInputs.cache
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.AssemblyInfo.cs
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.csproj.CoreCompileInputs.cache
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.dll
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.pdb
+C:\Users\tedme\source\repos\ApiDeGastosMensais.API\ApiDeGastosMensais.DATA\obj\Debug\netcoreapp3.1\ApiDeGastosMensais.DATA.genruntimeconfig.cache
